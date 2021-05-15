@@ -38,7 +38,7 @@
             android:id="@+id/radio_good"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Good(18%)" />
+            android:text="Good(15%)" />
 
         <RadioButton
             android:id="@+id/radio_ok"
